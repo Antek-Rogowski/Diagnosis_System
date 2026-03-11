@@ -1,0 +1,4 @@
+- krótsze okno przy uczeniu
+- różna ilość stanów
+- zatrzaskiwanie alarmu do końca pliku -> w końcu w rzeczywistości usterki nie naprawiają się same
+- przez pierwsze x sekund nie krzyczy o błędzie
